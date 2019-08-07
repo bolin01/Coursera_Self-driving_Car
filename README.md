@@ -7,8 +7,9 @@ Introduction to Self-driving Car (Course 1)
 
 </br> <!--blank line-->
 
-## CarND-Kidnapped-Vehicle-Project [Course Project]
-Coursera Introduction to Self-driving Car (Course 1) Final Project 
-Course 2 Project on _**Vehicle State Estimation**_ using _**Particle Filters**_ (_C++_)  
+## Course1FinalProject
+Introduction to Self-driving Car (Course 1) Final Project 
+
+-**Longitudinal controller (PID)**_ and -**lateral controller (Stanley Model)**_ for a car to follow given waypoints and velocity profile in **CARLA** simulator (_Python_)  
 Illustration:  
-![Kidnapped Car Project Illustration](/CarND-Kidnapped-Vehicle-Project/Kidnapped-car-project-illustration.png)
+![Trajectory Following Illustration](/Course1FinalProject/controller_output/trajectory.png)
