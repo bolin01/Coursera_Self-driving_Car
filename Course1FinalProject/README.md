@@ -3,7 +3,7 @@ Introduction to Self-driving Car (Course 1) Final Project
 
 _**Longitudinal controller (PID)**_ and _**lateral controller (Stanley Model)**_ for a car to follow given waypoints and velocity profile in **CARLA** simulator (_Python_)  
 Illustration:  
-![Trajectory Following Illustration](/controller_output/trajectory.png)
+![Trajectory Following Illustration](controller_output/trajectory.png)
 
 ## Results
 
