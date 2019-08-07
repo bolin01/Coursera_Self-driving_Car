@@ -10,8 +10,8 @@ Illustration:
 
 ## Longitudinal Controller (PID)
 Illustration:  
-![PID Longitudinal Controller Illustration](/Longitudinal_control_notes.png)
+![PID Longitudinal Controller Illustration](Longitudinal_control_notes.png)
 
 ## lateral Controller (Stanley Model)
 Illustration:  
-![Stanley Laterlal Controller Illustration](/Lateral_control_notes_commented.png.jpg)
+![Stanley Laterlal Controller Illustration](Lateral_control_notes_commented.png.jpg)
