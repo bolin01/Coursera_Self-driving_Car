@@ -6,13 +6,13 @@ Illustration:
 ![Trajectory Following Illustration](controller_output/trajectory.png)
 
 ## Results
-Speed Profile:
+Speed Profile:  
 ![Speed Profile](controller_output/Speed_profile.png)  
 
-Throttle Input:
+Throttle Input:  
 ![Throttle Input](controller_output/throttle_output.png)  
 
-Steering Input:
+Steering Input:  
 ![Steering Input](controller_output/steer_output.png)
 
 ## Longitudinal Controller (PID)
