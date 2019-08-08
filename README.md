@@ -13,5 +13,5 @@ _**Longitudinal controller (PID)**_ and _**lateral controller (Stanley Model)**_
 Illustration:  
 ![Trajectory Following Illustration](/Course1FinalProject/controller_output/trajectory.png)
 
-## Course1FinalProject
+## Course4FinalProject
 Motion Planning for Self-driving Cars (Course 4) Final Project 
